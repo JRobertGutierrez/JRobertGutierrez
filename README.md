@@ -7,8 +7,7 @@
 - 📫 Cómo contactarme: jrgutinez@gmail.com
 
 - 📣💾 Seguiré subiendo varios algoritmos para compartir y algunos de mis proyectos, espero que sirvan de ayuda. Saludos🙋‍♂️
-
-
+- *************************************************************************************************************************
 - 📣👋 Hi, I’m Robert Gutiérrez and I am currently practicing English. So I present myself in both languages.
 - 👀 I’m interested in working as an application developer
 - 🌱 I’m currently learning to develop web applications
