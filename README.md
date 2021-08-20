@@ -16,11 +16,9 @@
 
 - 📣💾 I will continue uploading several algorithms to share and some of my projects, I hope they help. Greetings🙋‍♂️
 
-<! ---
+<!---
 JRobertGutierrez / JRobertGutierrez es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub.
 Puede hacer clic en el enlace Vista previa para ver los cambios.
---->
-<!---
 JRobertGutierrez/JRobertGutierrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
