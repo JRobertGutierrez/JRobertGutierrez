@@ -1,6 +1,6 @@
 
 
-- 📣👋 Hola a todos, me llamo Robert y estoy practicando inglés, así es que me presento en los dos lenguajes.
+- 📣👋 Hola a todos, me llamo Robert y estoy practicando inglés, así es que me presento en los dos idiomas.
 - 👀 Actualmente trabajo como desarrollador Java en una empresa de software.
 - 🌱 Sigo adquiriendo nuevos conocimientos cada día ya que me encanta estudiar y practicar nuevos lenguajes de programación.
 - 💞️ Me gusta colaborar y ayudar a los demás, por eso sigo compartiendo mi código.
