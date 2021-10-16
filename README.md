@@ -1,6 +1,6 @@
 
 
-- 📣👋 Hola a todos, me llamo Robert y actualmente estoy practicando inglés, así es que me presento en los dos lenguajes.
+- 📣👋 Hola a todos, me llamo Robert y estoy practicando inglés, así es que me presento en los dos lenguajes.
 - 👀 Actualmente trabajo como desarrollador Java en una empresa de software.
 - 🌱 Sigo adquiriendo nuevos conocimientos cada día ya que me encanta estudiar y practicar nuevos lenguajes de programación.
 - 💞️ Me gusta colaborar y ayudar a los demás, por eso sigo compartiendo mi código.
@@ -8,7 +8,7 @@
 
 - 📣💾 Seguiré subiendo varios algoritmos para compartir y algunos de mis proyectos, espero que sirvan de ayuda. Saludos🙋‍♂️
 ***************************************************************************************************************************
-- 📣👋 Hello everyone, my name is Robert and I am currently practicing English, so I present myself in both languages.
+- 📣👋 Hello everyone, my name is Robert and I am practicing English, so I present myself in both languages.
 - 👀 I am currently working as a Java developer in a software company.
 - 🌱 I keep acquiring new knowledge every day as I love studying and practicing new programming languages.
 - 💞️ I like to collaborate and help others, that's why I keep sharing my code.
